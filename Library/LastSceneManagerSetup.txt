@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/Lenovo/Desktop/test/Virtuelna Realnost - Domasna Zadacha 1/Domasno
+    1/Assets/Domasna rabota finalna verzija.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
